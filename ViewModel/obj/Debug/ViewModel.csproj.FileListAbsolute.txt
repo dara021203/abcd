@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Empresas abc\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Admin\source\repos\Empresas abc\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Admin\source\repos\Empresas abc\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Empresas abc\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Admin\source\repos\Empresas abc\ViewModel\obj\Debug\ViewModel.pdb

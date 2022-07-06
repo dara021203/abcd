@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Empresas abc\TTiendad\bin\Debug\TTiendad.exe.config
+C:\Users\Admin\source\repos\Empresas abc\TTiendad\bin\Debug\TTiendad.exe
+C:\Users\Admin\source\repos\Empresas abc\TTiendad\bin\Debug\TTiendad.pdb
+C:\Users\Admin\source\repos\Empresas abc\TTiendad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Empresas abc\TTiendad\bin\Debug\ViewModel.dll
+C:\Users\Admin\source\repos\Empresas abc\TTiendad\bin\Debug\ViewModel.pdb
+C:\Users\Admin\source\repos\Empresas abc\TTiendad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\Empresas abc\TTiendad\obj\Debug\TTiendad.Form1.resources
+C:\Users\Admin\source\repos\Empresas abc\TTiendad\obj\Debug\TTiendad.Properties.Resources.resources
+C:\Users\Admin\source\repos\Empresas abc\TTiendad\obj\Debug\TTiendad.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Empresas abc\TTiendad\obj\Debug\TTiendad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Empresas abc\TTiendad\obj\Debug\TTiendad.csproj.CopyComplete
+C:\Users\Admin\source\repos\Empresas abc\TTiendad\obj\Debug\TTiendad.exe
+C:\Users\Admin\source\repos\Empresas abc\TTiendad\obj\Debug\TTiendad.pdb

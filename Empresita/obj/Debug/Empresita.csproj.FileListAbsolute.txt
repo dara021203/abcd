@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Empresas abc\Empresita\bin\Debug\Empresita.exe.config
+C:\Users\Admin\source\repos\Empresas abc\Empresita\bin\Debug\Empresita.exe
+C:\Users\Admin\source\repos\Empresas abc\Empresita\bin\Debug\Empresita.pdb
+C:\Users\Admin\source\repos\Empresas abc\Empresita\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Empresas abc\Empresita\bin\Debug\ViewModel.dll
+C:\Users\Admin\source\repos\Empresas abc\Empresita\bin\Debug\ViewModel.pdb
+C:\Users\Admin\source\repos\Empresas abc\Empresita\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\Empresas abc\Empresita\obj\Debug\Empresita.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Empresas abc\Empresita\obj\Debug\Empresita.Form1.resources
+C:\Users\Admin\source\repos\Empresas abc\Empresita\obj\Debug\Empresita.Properties.Resources.resources
+C:\Users\Admin\source\repos\Empresas abc\Empresita\obj\Debug\Empresita.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Empresas abc\Empresita\obj\Debug\Empresita.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Empresas abc\Empresita\obj\Debug\Empresita.csproj.CopyComplete
+C:\Users\Admin\source\repos\Empresas abc\Empresita\obj\Debug\Empresita.exe
+C:\Users\Admin\source\repos\Empresas abc\Empresita\obj\Debug\Empresita.pdb
